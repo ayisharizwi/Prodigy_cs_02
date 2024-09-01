@@ -76,14 +76,3 @@ pip install pillow numpy
    - `key2` is subtracted from the pixel values.
    - The image is XORed again with `key1` to retrieve the original image.
 
-## Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or issues, please feel free to submit a pull request or open an issue on GitHub.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-You can customize this README according to your project details and any additional information you'd like to include.
