@@ -1,7 +1,3 @@
-Here's a sample README file for your GitHub repository:
-
----
-
 # Image Encryption and Decryption
 
 This repository contains a Python script that performs encryption and decryption of images using a combination of XOR, addition, and pixel shuffling techniques. The script uses the Python Imaging Library (PIL) and NumPy to manipulate image data.
