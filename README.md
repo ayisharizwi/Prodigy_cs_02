@@ -27,14 +27,14 @@ pip install pillow numpy
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/image-encryption-decryption.git
-   cd image-encryption-decryption
+   git clone https://github.com/ayisharizwi/Prodigy_cs_02.git
+   cd Prodigy_cs_02
    ```
 
 2. **Run the Script:**
 
    ```bash
-   python image_encryption.py
+   python imageEncryption.py
    ```
 
 3. **Input Parameters:**
