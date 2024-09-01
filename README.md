@@ -34,7 +34,7 @@ pip install pillow numpy
 2. **Run the Script:**
 
    ```bash
-   python imageEncryption.py
+   python ImageEncryption.py
    ```
 
 3. **Input Parameters:**
